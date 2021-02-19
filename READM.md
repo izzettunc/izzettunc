@@ -1,13 +1,13 @@
 ### Hi there, I'm Izzet Tunc 👋
 ----
 
-About Me
- 
+I am a fast learner, reliable, and highly adaptable data scientist with nearly 2 years of experience. I have an inquiring mind so, I love to learn new topics and technologies. My interests are consist of data science, creating AI-based apps as well as designing and analyzing new algorithms. I especially like working on NP problems that are featured in computer science literature. As a result of that, I love challenging myself by competing in programming contests.  
+
 <h3 align="center"> Things that I'm currently working on </h3>
 
 <a href="https://github.com/csci-arch/stibnite">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csci-arch&repo=stibnite&theme=dark" />
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=DSChallenges&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csci-arch&repo=stibnite&theme=light" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=DSChallenges&theme=light" />
 </a>
 
 <h3 align="center">Languages and Tools</h3>
@@ -55,6 +55,7 @@ About Me
   <code><img title="PyTest" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pytest.svg"></code>
 </p>
 
-### Kaggle Notebooks
+### Publications
 
+:page_with_curl: [Agglomeration-Based Node Importance Analysis in Wheel-Type Networks](https://www.worldscientific.com/doi/10.1142/S0129054121500210)<br>
 :page_with_curl: [Introduction to Time Series Clustering](https://www.kaggle.com/izzettunc/introduction-to-time-series-clustering)
