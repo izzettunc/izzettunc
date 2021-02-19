@@ -3,13 +3,14 @@
 
 About Me
  
-### Things that I'm currently working on
+<h3 align="center"> Things that I'm currently working on </h3>
 
 <a href="https://github.com/csci-arch/stibnite">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csci-arch&repo=stibnite&theme=dark" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=DSChallenges&theme=dark" />
 </a>
 
-### Languages and Tools
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/python.svg"></code>
   <code><img title="Java" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/java.svg"></code>
@@ -38,7 +39,7 @@ About Me
   <code><img title="OpenSUSE" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/suse.svg"></code>
 </p>
 
-### Libraries
+<h4 align="center">Libraries</h4>
 
 <p align="center">
   <code><img title="Pandas" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pandas.svg"></code>
@@ -56,5 +57,4 @@ About Me
 
 ### Kaggle Notebooks
 
-
-### Highlights
+:page_with_curl: [Introduction to Time Series Clustering](https://www.kaggle.com/izzettunc/introduction-to-time-series-clustering)
