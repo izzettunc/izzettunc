@@ -41,16 +41,17 @@ About Me
 ### Libraries
 
 <p align="center">
-  <code><img title="Keras" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/keras.svg"></code>
-  <code><img title="LightGBM" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/lgbm.svg"></code>
-  <code><img title="NumPy" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/numpy.svg"></code>
-  <code><img title="Optuna" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/optuna.png"></code>
   <code><img title="Pandas" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pandas.svg"></code>
-  <code><img title="PyTest" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pytest.svg"></code>
   <code><img title="Scikit-Learn" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/scikit.svg"></code>
+  <code><img title="NumPy" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/numpy.svg"></code>
+  <code><img title="SciPy" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/scipy.svg"></code>
   <code><img title="Statsmodels" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/statsmodels.svg"></code>
-  <code><img title="Tensorflow" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/tensorflow.svg"></code>
+  <code><img title="LightGBM" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/lgbm.svg"></code>
   <code><img title="XgBoost" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/xgboost.png"></code>
+  <code><img title="Optuna" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/optuna.png"></code>
+  <code><img title="Keras" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/keras.svg"></code>
+  <code><img title="Tensorflow" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/tensorflow.svg"></code>
+  <code><img title="PyTest" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pytest.svg"></code>
 </p>
 
 ### Kaggle Notebooks
