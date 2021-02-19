@@ -4,12 +4,13 @@
 I am a fast learner, reliable, and highly adaptable data scientist with nearly 2 years of experience. I have an inquiring mind so, I love to learn new topics and technologies. My interests are consist of data science, creating AI-based apps as well as designing and analyzing new algorithms. I especially like working on NP problems that are featured in computer science literature. As a result of that, I love challenging myself by competing in programming contests.  
 
 <h3 align="center"> Things that I'm currently working on </h3>
-
 <a href="https://github.com/csci-arch/stibnite">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csci-arch&repo=stibnite&theme=light" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=csci-arch&repo=stibnite&theme=light" />
+</a>
+<a href="https://github.com/izzettunc/DSChallenges">
  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=DSChallenges&theme=light" />
 </a>
-
+<br><br><br><br><br><br>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/python.svg"></code>
@@ -38,9 +39,8 @@ I am a fast learner, reliable, and highly adaptable data scientist with nearly 2
   <code><img title="Linux" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/linux.svg"></code>
   <code><img title="OpenSUSE" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/suse.svg"></code>
 </p>
-
+<br>
 <h4 align="center">Libraries</h4>
-
 <p align="center">
   <code><img title="Pandas" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pandas.svg"></code>
   <code><img title="Scikit-Learn" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/scikit.svg"></code>
@@ -54,8 +54,24 @@ I am a fast learner, reliable, and highly adaptable data scientist with nearly 2
   <code><img title="Tensorflow" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/tensorflow.svg"></code>
   <code><img title="PyTest" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pytest.svg"></code>
 </p>
+<br>
 
 ### Publications
 
 :page_with_curl: [Agglomeration-Based Node Importance Analysis in Wheel-Type Networks](https://www.worldscientific.com/doi/10.1142/S0129054121500210)<br>
 :page_with_curl: [Introduction to Time Series Clustering](https://www.kaggle.com/izzettunc/introduction-to-time-series-clustering)
+
+<br>
+<h3 align="center">From Scratch</h3>
+<a href="https://github.com/izzettunc/Q-Learning-Maze-Solver">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Q-Learning-Maze-Solver&theme=light" />
+</a>
+<a href="https://github.com/izzettunc/Kohonen-SOM">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Kohonen-SOM&theme=light" />
+</a>
+<a href="https://github.com/izzettunc/newsClassification">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=newsClassification&theme=light" />
+</a>
+<a href="https://github.com/izzettunc/Bayesian-Network">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Bayesian-Network&theme=light" />
+</a>
