@@ -6,7 +6,7 @@
   <code>
     <a href="https://www.linkedin.com/in/izzettunc/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/izzettunc" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.kaggle.com/izzettunc" title="Kaggle Profile"><img width="22" src="https://github.com/izzettunc/izzettunc/blob/main/images/kaggle.svg"> Instagram</a></code>
+  <code><a href="https://www.kaggle.com/izzettunc" title="Kaggle Profile"><img width="22" src="https://github.com/izzettunc/izzettunc/blob/main/images/kaggle.svg"> Kaggle</a></code>
   <code><a href="https://stackoverflow.com/users/13858529/izzet-tunc" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/stackoverflow.svg"> Stack Overflow</a></code>
 
 </h5>
