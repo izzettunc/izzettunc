@@ -16,10 +16,10 @@ I am a fast learner, reliable, and highly adaptable data scientist with nearly 2
 
 <h3 align="center"> Things that I'm currently working on </h3>
 <a href="https://github.com/csci-arch/stibnite">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=csci-arch&repo=stibnite&theme=light" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=csci-arch&repo=stibnite&theme=vue" />
 </a>
 <a href="https://github.com/izzettunc/DSChallenges">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=DSChallenges&theme=light" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=DSChallenges&theme=vue" />
 </a>
 <br><br><br><br><br><br>
 <h3 align="center">Languages and Tools</h3>
@@ -98,16 +98,16 @@ I am a fast learner, reliable, and highly adaptable data scientist with nearly 2
 <br>
 <h3 align="center">From Scratch</h3>
 <a href="https://github.com/izzettunc/Q-Learning-Maze-Solver">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Q-Learning-Maze-Solver&theme=light" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Q-Learning-Maze-Solver&theme=vue" />
 </a>
 <a href="https://github.com/izzettunc/Kohonen-SOM">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Kohonen-SOM&theme=light" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Kohonen-SOM&theme=vue" />
 </a>
 <a href="https://github.com/izzettunc/newsClassification">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=newsClassification&theme=light" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=newsClassification&theme=vue" />
 </a>
 <a href="https://github.com/izzettunc/Bayesian-Network">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Bayesian-Network&theme=light" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=izzettunc&repo=Bayesian-Network&theme=vue" />
 </a>
 
 
