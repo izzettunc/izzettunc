@@ -65,9 +65,13 @@ I am a fast learner, reliable, and highly adaptable data scientist with nearly 2
   <code><img title="Tensorflow" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/tensorflow.svg"></code>
   <code><img title="PyTest" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pytest.svg"></code>
 </p>
+<p align="center">
+  <code>and many more...</code>
+</p>
 <br>
+<h3>My Certificates</h3>
 <details>
-  <summary>:brain: My Certificates</summary>
+  <summary>:brain::brain: Click Me :brain::brain:</summary>
   
 | DataCamp                                                                                  |                               Credential                            |
 | ----------------------------------------------------------------------------------------- | :-----------------------------------------------------------------: |
