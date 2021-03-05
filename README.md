@@ -64,6 +64,12 @@ I am a fast learner, reliable, and highly adaptable data scientist with nearly 2
   <code><img title="Keras" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/keras.svg"></code>
   <code><img title="Tensorflow" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/tensorflow.svg"></code>
   <code><img title="PyTest" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/pytest.svg"></code>
+  <code><img title="Plotly" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/plotly.svg"></code>
+  <code><img title="Matplotlib" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/matplotlib.svg"></code>
+  <code><img title="Seaborn" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/seaborn.svg"></code>
+  <code><img title="Safety" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/safety.jpg"></code>
+  <code><img title="Bandit" height="25" src="https://raw.githubusercontent.com/izzettunc/izzettunc/main/images/bandit.svg"></code>
+
 </p>
 <p align="center">
   <code>and many more...</code>
